@@ -1,0 +1,11 @@
+div {
+  /*background-color: #dde2db;*/
+  display: inline-block;
+  vertical-align: top;
+  padding: 15px;
+  /*border: 1px solid black;*/
+}
+input {
+  margin-left: 5px;
+  float: right;
+}
